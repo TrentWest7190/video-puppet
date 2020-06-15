@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/video-puppet/precache-manifest.8ae57907516d012c8ea7205f9ea58794.js"
+  "/video-puppet/precache-manifest.221ee38cb9e624675f613cc790ce5800.js"
 );
 
 self.addEventListener('message', (event) => {
